@@ -1,0 +1,3317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Greece">
+  <name>Greece</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Greece</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Global heat flow data are maintained by the International Heat Flow Commission (IHFC) of the International Association of Seismology and Physics of the Earth's Interior (IASPEI).]]></description>
+    <Placemark id="ID_00000">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.3667</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.1167</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>700</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.05</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>139</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.11670000000004,39.36670000000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.3333</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>200</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.09</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>114</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.33330000000007,39.10000000000008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>41.0333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.5333</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>120</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>97</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.53330000000005,41.03330000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>24.8333</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3960</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.09</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>73</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 24.83330000000007,40.90000000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>41.1333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>26.2833</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1317</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>67</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle04</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 26.28330000000005,41.13330000000008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.4167</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.95</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>930</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.96</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>65</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle04</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.95000000000005,39.41670000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.9333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>26.1833</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1750</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.92</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>61</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle04</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 26.18330000000003,40.93330000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>41.0667</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>26.25</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>2350</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>58</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle07</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 26.25000000000006,41.06670000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>24.65</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3159</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.09</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>56</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle07</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 24.65000000000003,40.90000000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.5333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.9167</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>910</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.75</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>56</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle07</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.91670000000005,39.53330000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.3167</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>23.1</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1423</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.92</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>54</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle07</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 23.10000000000002,40.31670000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.4833</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.55</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>2743</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>48</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Whieldon_etal1985; Rollin1991</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>&lt;null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle011</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.55000000000007,40.48330000000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.3333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.3</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>691</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.71</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>43</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle011</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.30000000000007,40.33330000000007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>37.15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.6</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3757</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>41</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle011</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.60000000000002,37.15000000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>38.5167</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.35</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>41</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle011</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.35000000000002,38.51670000000007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.6167</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.6667</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>2091</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.92</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>40</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle015</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.66670000000005,40.61670000000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.5333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.6167</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3982</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>35</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle015</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.61670000000004,40.53330000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.45</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3129</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>34</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle015</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.45000000000005,40.60000000000008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.8333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.3167</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1909</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.05</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>33</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle015</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.31670000000003,40.83330000000007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.4167</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.3333</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1126</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.88</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>32</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle015</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.33330000000007,40.41670000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>20.3</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>3820</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>31</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle015</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 20.30000000000007,39.70000000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>38.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>21.15</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>4573</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>28</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle021</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 21.15000000000003,38.50000000000006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.7833</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.4667</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>2605</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>26</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle021</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.46670000000006,40.78330000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>40.65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>22.3</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1520</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2.05</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>25</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle021</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 22.30000000000007,40.65000000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.0667</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>20.7167</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1709</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>1.92</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>23</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle021</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 20.71670000000006,39.06670000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>39.1167</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>20.6667</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>2547</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>22</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle021</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 20.66670000000005,39.11670000000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>36.7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>24.4833</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1101</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>263</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>0</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>BHT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle026</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 24.48330000000004,36.70000000000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Data_Numbe</td>
+<td>Greece</td>
+</tr>
+<tr>
+<td>Codes</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Site_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>36.7333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude</td>
+<td>24.45</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>minD</td>
+<td>0</td>
+</tr>
+<tr>
+<td>maxD</td>
+<td>1163</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Temps</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gradient</td>
+<td>247</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No__Cond_</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Conductivi</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No_Heat_Pr</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr>
+<td>Heat_Prod_</td>
+<td>&lt;null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Heat_Flow</td>
+<td>0</td>
+</tr>
+<tr>
+<td>No__sites</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Year_of_Pu</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Reference</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Fytikas&amp;Kolios1979</td>
+</tr>
+<tr>
+<td>Comments2</td>
+<td>&lt;null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle026</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 24.45000000000005,36.73330000000004,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>fd3d9b38-3fe4-4195-a28d-925e8f01922b.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle01">
+    <IconStyle>
+      <Icon><href>038deb1a-f3db-448f-8032-0abc3e2c73ef.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle02">
+    <IconStyle>
+      <Icon><href>9a6f3335-b635-4c8f-b7af-1d9b06a5bc21.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle03">
+    <IconStyle>
+      <Icon><href>b670e3b2-a64a-44c1-ad45-4f7686138d47.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle04">
+    <IconStyle>
+      <Icon><href>c2d5d748-95be-4364-9f32-9988b9f88293.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle07">
+    <IconStyle>
+      <Icon><href>8a1f608d-cca3-4f7f-ad8b-bd659dfb5bdf.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle011">
+    <IconStyle>
+      <Icon><href>82f54b69-2983-460f-a826-c844c615850e.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle015">
+    <IconStyle>
+      <Icon><href>4ec2e8ea-d4f2-4c27-a4c1-a1dc4f629b54.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle021">
+    <IconStyle>
+      <Icon><href>93ef6bb4-bf13-4ae5-ba4e-9826b48d4804.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle026">
+    <IconStyle>
+      <Icon><href>3c4fe860-5e40-421a-bcd3-d310a1944035.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

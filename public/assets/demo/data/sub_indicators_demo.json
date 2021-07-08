@@ -1,0 +1,951 @@
+{
+    "country": "Burkina Faso",
+    "subindicators": [
+        {
+            "classes": [
+                {
+                    "class": "Tree covered",
+                    "data": [
+                        {
+                            "absolute_value": 2.4525556579108514,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 2.459633260382998,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 2.4620294392763893,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 2.465313091834,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 2.466954918112805,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 2.4694176575310127,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 2.471303539067478,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 2.4765396336863703,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 2.484305028248287,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 2.4878327360635573,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 2.4927138412167618,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 2.4961971753488217,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 2.5040735041187654,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 2.5180955880134257,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 2.5180512143302147,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 2.5365106665459702,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 2.5540382714142957,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 2.9000642530932894,
+                            "percentage_value": 816943.75,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                },
+                {
+                    "class": "Grassland",
+                    "data": [
+                        {
+                            "absolute_value": 33.902758623137856,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 33.44306945191401,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 33.24775868526101,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 32.969336009953906,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 32.865568151765096,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 32.79055444029699,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 32.61490121530644,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 32.55701574555775,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 32.47039831592998,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 32.4546900320733,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 32.37248778392501,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 32.35418363960049,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 32.319461232487924,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 32.27098298357996,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 32.27016207044056,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 32.22723053193396,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 32.20559836136863,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 31.9412865173226,
+                            "percentage_value": 8997812.5,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                },
+                {
+                    "class": "Cropland",
+                    "data": [
+                        {
+                            "absolute_value": 62.75883169416947,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 63.19624527642142,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 63.385787464257,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 63.654226060841644,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 63.752824384936375,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 63.813083846736845,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 63.982857558701944,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 64.01922179209332,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 64.08698040635645,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 64.09308178779794,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 64.1625709757063,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 64.1731319123105,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 64.19092575927809,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 64.21293510615072,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 64.21062767462375,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 64.19267851976493,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 64.16372469146978,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 64.05381107815626,
+                            "percentage_value": 18043862.5,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                },
+                {
+                    "class": "Wetland",
+                    "data": [
+                        {
+                            "absolute_value": 0.09529248469551665,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 0.09540341890354403,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 0.09520373732909476,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 0.09520373732909476,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 0.09553653995317689,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 0.09582496889404807,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 0.09582496889404807,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 0.09582496889404807,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 0.09586934257725901,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 0.09604683731010283,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 0.0962465188845521,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 0.09613558467652472,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 0.09629089256776305,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 0.09677900308308351,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 0.09677900308308351,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 0.09633526625097401,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 0.0959802767852864,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 0.09422751629845384,
+                            "percentage_value": 26543.75,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                },
+                {
+                    "class": "Artificial",
+                    "data": [
+                        {
+                            "absolute_value": 0.08242411656434095,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 0.08998982955180805,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 0.09231944792038296,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 0.0944493847145086,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 0.09866488461954892,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 0.10325756083188231,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 0.10643027918146529,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 0.11040172382884537,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 0.11250947378136554,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 0.11508314740760069,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 0.11832242628200008,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 0.12169482620603234,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 0.12950459445115967,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 0.1347628759116573,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 0.13795778110284576,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 0.1668228620315692,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 0.18814441681443103,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 0.20829006899220265,
+                            "percentage_value": 58675.0,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                },
+                {
+                    "class": "Bare land",
+                    "data": [
+                        {
+                            "absolute_value": 0.36026993398970886,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 0.36825719696768,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 0.3694996600975866,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 0.3740701494683145,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 0.3740035889434981,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 0.3818799177134419,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 0.38270083085284445,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 0.39501452794388325,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 0.401537459375893,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 0.40457705667584315,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 0.4094803486706532,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 0.41052313022611053,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 0.4120318354552829,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 0.41225370387133764,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 0.41223151702973215,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 0.4242124114966888,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 0.42716326143021704,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 0.4273851298462718,
+                            "percentage_value": 120393.75,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                },
+                {
+                    "class": "Water body",
+                    "data": [
+                        {
+                            "absolute_value": 0.3478674895322481,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2001
+                        },
+                        {
+                            "absolute_value": 0.34740156585853316,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2002
+                        },
+                        {
+                            "absolute_value": 0.34740156585853316,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2003
+                        },
+                        {
+                            "absolute_value": 0.34740156585853316,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2004
+                        },
+                        {
+                            "absolute_value": 0.3464475316694977,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2005
+                        },
+                        {
+                            "absolute_value": 0.3459816079957827,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2006
+                        },
+                        {
+                            "absolute_value": 0.3459816079957827,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2007
+                        },
+                        {
+                            "absolute_value": 0.3459816079957827,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2008
+                        },
+                        {
+                            "absolute_value": 0.3483999737307795,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2009
+                        },
+                        {
+                            "absolute_value": 0.34868840267165074,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2010
+                        },
+                        {
+                            "absolute_value": 0.34817810531472476,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2011
+                        },
+                        {
+                            "absolute_value": 0.34813373163151384,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2012
+                        },
+                        {
+                            "absolute_value": 0.3477121816410098,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2013
+                        },
+                        {
+                            "absolute_value": 0.3541907393898086,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2014
+                        },
+                        {
+                            "absolute_value": 0.3541907393898086,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2015
+                        },
+                        {
+                            "absolute_value": 0.3562097419759069,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2016
+                        },
+                        {
+                            "absolute_value": 0.3653507207173627,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2017
+                        },
+                        {
+                            "absolute_value": 0.37493543629092807,
+                            "percentage_value": 105618.75,
+                            "unit": "hectares",
+                            "year": 2018
+                        }
+                    ]
+                }
+            ],
+            "period":
+            {
+                "start_year":2001,
+                "end_year":2018
+
+            },
+            "subindicator": "land_cover"
+        },
+        {
+            "data": [
+                {
+                    "value": "3253",
+                    "year": "2001"
+                },
+                {
+                    "value": "3183",
+                    "year": "2002"
+                },
+                {
+                    "value": "3393",
+                    "year": "2003"
+                },
+                {
+                    "value": "3350",
+                    "year": "2004"
+                },
+                {
+                    "value": "3250",
+                    "year": "2005"
+                },
+                {
+                    "value": "3306",
+                    "year": "2006"
+                },
+                {
+                    "value": "3299",
+                    "year": "2007"
+                },
+                {
+                    "value": "3295",
+                    "year": "2008"
+                },
+                {
+                    "value": "3324",
+                    "year": "2009"
+                },
+                {
+                    "value": "3337",
+                    "year": "2010"
+                },
+                {
+                    "value": "3321",
+                    "year": "2011"
+                },
+                {
+                    "value": "3374",
+                    "year": "2012"
+                },
+                {
+                    "value": "3327",
+                    "year": "2013"
+                },
+                {
+                    "value": "3284",
+                    "year": "2014"
+                },
+                {
+                    "value": "3177",
+                    "year": "2015"
+                },
+                {
+                    "value": "3289",
+                    "year": "2016"
+                },
+                {
+                    "value": "3306",
+                    "year": "2017"
+                },
+                {
+                    "value": "3311",
+                    "year": "2018"
+                }
+            ],
+            "subindicator": "ndvi"
+        },
+        {
+            "min_quantile": "24",
+            "max_quantile": "39",
+            "max": "285",
+            "mean": "32",
+            "min": "0",
+            "subindicator": "soc"
+        }
+    ],
+    "sustainable_development_goals": {
+        "data": [
+            {
+                "Degradation": {
+                    "absolute_value": 8837250.0,
+                    "percentage_value": 31.522794701880454
+                },
+                "Improvement": {
+                    "absolute_value": 1074237.5,
+                    "percentage_value": 3.831844541408391
+                },
+                "Stable": {
+                    "absolute_value": 18122987.5,
+                    "percentage_value": 64.64536075671116
+                },
+                "period": {
+                    "end-year": "2018",
+                    "start-year": "2012"
+                }
+            },
+            {
+                "Degradation": {
+                    "absolute_value": 8837250.0,
+                    "percentage_value": 31.522794701880454
+                },
+                "Improvement": {
+                    "absolute_value": 1074237.5,
+                    "percentage_value": 3.831844541408391
+                },
+                "Stable": {
+                    "absolute_value": 18122987.5,
+                    "percentage_value": 64.64536075671116
+                },
+                "period": {
+                    "end-year": "2018",
+                    "start-year": "2012"
+                }
+            },
+            {
+                "Degradation": {
+                    "absolute_value": 8837250.0,
+                    "percentage_value": 31.522794701880454
+                },
+                "Improvement": {
+                    "absolute_value": 1074237.5,
+                    "percentage_value": 3.831844541408391
+                },
+                "Stable": {
+                    "absolute_value": 18122987.5,
+                    "percentage_value": 64.64536075671116
+                },
+                "period": {
+                    "end-year": "2018",
+                    "start-year": "2012"
+                }
+            }
+        ],
+        "goal": "15.3.1"
+    }
+}

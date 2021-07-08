@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding="ISO-8859-1" standalone="no" ?>
+<!DOCTYPE WMT_MS_Capabilities SYSTEM "http://schemas.opengis.net/wms/1.1.1/WMS_MS_Capabilities.dtd">
+<WMT_MS_Capabilities version="1.1.1">
+    <Service>
+        <Name>OGC:WMS</Name>
+        <Title>NASA FIRMS WMS Service</Title>
+        <Abstract>NASA FIRMS WMS Service provides WMS feeds for the latest C6 MODIS and VIIRS Fire/Hotspot data as well as date range up to 31 days. For more information, please visit https://earthdata.nasa.gov/firms</Abstract>
+        <KeywordList>
+            <Keyword>fires</Keyword>
+            <Keyword> hotspots</Keyword>
+            <Keyword> MODIS</Keyword>
+            <Keyword> NASA</Keyword>
+            <Keyword> FIRMS</Keyword>
+            <Keyword> LANCE</Keyword>
+        </KeywordList>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://firms.modaps.eosdis.nasa.gov/wms/key/eee2262c46fbe0981ff3039f243e3a85/?"/>
+        <ContactInformation>
+            <ContactPersonPrimary>
+                <ContactPerson>Greg Ederer</ContactPerson>
+                <ContactOrganization>NASA /GSFC</ContactOrganization>
+            </ContactPersonPrimary>
+            <ContactElectronicMailAddress>support@earthdata.nasa.gov</ContactElectronicMailAddress>
+        </ContactInformation>
+        <Fees>none</Fees>
+    </Service>
+
+    <Capability>
+        <Request>
+            <GetCapabilities>
+                <Format>application/vnd.ogc.wms_xml</Format>
+                <DCPType>
+                    <HTTP>
+                        <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://firms.modaps.eosdis.nasa.gov/wms/key/eee2262c46fbe0981ff3039f243e3a85/?"/></Get>
+                        <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://firms.modaps.eosdis.nasa.gov/wms/key/eee2262c46fbe0981ff3039f243e3a85/?"/></Post>
+                    </HTTP>
+                </DCPType>
+            </GetCapabilities>
+            <GetMap>
+                <Format>image/png</Format>
+                <Format>image/jpeg</Format>
+                <Format>image/tiff</Format>
+                <Format>pdf</Format>
+                <DCPType>
+                    <HTTP>
+                        <Get><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://firms.modaps.eosdis.nasa.gov/wms/key/eee2262c46fbe0981ff3039f243e3a85/?"/></Get>
+                        <Post><OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://firms.modaps.eosdis.nasa.gov/wms/key/eee2262c46fbe0981ff3039f243e3a85/?"/></Post>
+                    </HTTP>
+                </DCPType>
+            </GetMap>
+        </Request>
+        <Exception>
+            <Format>application/vnd.ogc.se_xml</Format>
+            <Format>application/vnd.ogc.se_inimage</Format>
+            <Format>application/vnd.ogc.se_blank</Format>
+        </Exception>
+        <VendorSpecificCapabilities />
+        <UserDefinedSymbolization SupportSLD="1" UserLayer="0" UserStyle="1" RemoteWFS="0"/>
+        <Layer>
+            <Name>NASA FIRMS</Name>
+            <Title>NASA FIRMS WMS Service</Title>
+            <Abstract>NASA FIRMS WMS Service provides WMS feeds for the latest MODIS and VIIRS Fire/Hotspot data. For more information, please visit https://earthdata.nasa.gov/firms</Abstract>
+            <KeywordList>
+                <Keyword>fires</Keyword>
+                <Keyword> hotspots</Keyword>
+                <Keyword> MODIS</Keyword>
+                <Keyword> NASA</Keyword>
+                <Keyword> FIRMS</Keyword>
+                <Keyword> LANCE</Keyword>
+            </KeywordList>
+            <SRS>EPSG:4326</SRS>
+            <SRS>EPSG:3857</SRS>
+            <SRS>EPSG:900913</SRS>
+            <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+            <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_modis_24</Name>
+                <Title>MODIS Fires - Past 24 Hours</Title>
+                <Abstract>Provides MODIS (MODIS Rapid Response Collection) Fires/Hotspots for the past 24 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_modis_48</Name>
+                <Title>MODIS Fires - Past 48 Hours</Title>
+                <Abstract>Provides MODIS (Rapid Response Collection) Fires/Hotspots for the past 48 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_modis_72</Name>
+                <Title>MODIS Fires - Past 72 Hours</Title>
+                <Abstract>Provides MODIS (Rapid Response Collection) Fires/Hotspots for the past 72 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_modis_7</Name>
+                <Title>MODIS Fires - Past 7 Days</Title>
+                <Abstract>Provides MODIS (Rapid Response Collection) Fires/Hotspots for the past 7 days. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_aqua_24</Name>
+                <Title>MODIS-Aqua Fires - Past 24 Hours</Title>
+                <Abstract>Provides MODIS-Aqua (MODIS Rapid Response Collection) Fires/Hotspots for the past 24 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_aqua_48</Name>
+                <Title>MODIS-Aqua Fires - Past 48 Hours</Title>
+                <Abstract>Provides MODIS-Aqua (Rapid Response Collection) Fires/Hotspots for the past 48 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_aqua_72</Name>
+                <Title>MODIS-Aqua Fires - Past 72 Hours</Title>
+                <Abstract>Provides MODIS-Aqua (Rapid Response Collection) Fires/Hotspots for the past 72 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_aqua_7</Name>
+                <Title>MODIS-Aqua Fires - Past 7 Days</Title>
+                <Abstract>Provides MODIS-Aqua (Rapid Response Collection) Fires/Hotspots for the past 7 days. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_terra_24</Name>
+                <Title>MODIS-Terra Fires - Past 24 Hours</Title>
+                <Abstract>Provides MODIS-Terra (MODIS Rapid Response Collection) Fires/Hotspots for the past 24 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_terra_48</Name>
+                <Title>MODIS-Terra Fires - Past 48 Hours</Title>
+                <Abstract>Provides MODIS-Terra (Rapid Response Collection) Fires/Hotspots for the past 48 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_terra_72</Name>
+                <Title>MODIS Fires-Terra - Past 72 Hours</Title>
+                <Abstract>Provides MODIS-Terra (Rapid Response Collection) Fires/Hotspots for the past 72 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_terra_7</Name>
+                <Title>MODIS-Terra Fires - Past 7 Days</Title>
+                <Abstract>Provides MODIS-Terra (Rapid Response Collection) Fires/Hotspots for the past 7 days. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_24</Name>
+                <Title>VIIRS Fires - Past 24 Hours</Title>
+                <Abstract>Provides VIIRS 375m Fires/Hotspots for the past 24 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_48</Name>
+                <Title>VIIRS Fires - Past 48 Hours</Title>
+                <Abstract>Provides VIIRS 375m Fires/Hotspots for the past 48 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_72</Name>
+                <Title>VIIRS Fires - Past 72 Hours</Title>
+                <Abstract>Provides VIIRS 375m Fires/Hotspots for the past 72 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_7</Name>
+                <Title>VIIRS Fires - Past 7 Days</Title>
+                <Abstract>Provides VIIRS 375m Fires/Hotspots for the past 7 days. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_snpp_24</Name>
+                <Title>VIIRS S-NPP Fires - Past 24 Hours</Title>
+                <Abstract>Provides VIIRS 375m S-NPP Fires/Hotspots for the past 24 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_snpp_48</Name>
+                <Title>VIIRS S-NPP Fires - Past 48 Hours</Title>
+                <Abstract>Provides VIIRS 375m S-NPP Fires/Hotspots for the past 48 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_snpp_72</Name>
+                <Title>VIIRS S-NPP Fires - Past 72 Hours</Title>
+                <Abstract>Provides VIIRS 375m S-NPP Fires/Hotspots for the past 72 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_snpp_7</Name>
+                <Title>VIIRS S-NPP Fires - Past 7 Days</Title>
+                <Abstract>Provides VIIRS 375m S-NPP Fires/Hotspots for the past 7 days. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_noaa20_24</Name>
+                <Title>VIIRS NOAA-20 Fires - Past 24 Hours</Title>
+                <Abstract>Provides VIIRS 375m NOAA-20 Fires/Hotspots for the past 24 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_noaa20_48</Name>
+                <Title>VIIRS NOAA-20 Fires - Past 48 Hours</Title>
+                <Abstract>Provides VIIRS 375m NOAA-20 Fires/Hotspots for the past 48 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_noaa20_72</Name>
+                <Title>VIIRS NOAA-20 Fires - Past 72 Hours</Title>
+                <Abstract>Provides VIIRS 375m NOAA-20 Fires/Hotspots for the past 72 hours. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_noaa20_7</Name>
+                <Title>VIIRS NOAA-20 Fires - Past 7 Days</Title>
+                <Abstract>Provides VIIRS 375m NOAA-20 Fires/Hotspots for the past 7 days. Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs</Name>
+                <Title>VIIRS Daterange Hotspots</Title>
+                <Abstract>Provides VIIRS 375m (S-NPP and NOAA-20) hotspots for a specific date range (YYYY-mm-dd/YYYY-mm-dd). Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+                <Dimension name="time" units="ISO8601"/>
+                <Extent name="time" default="2000-11-01" nearestValue="0">2000-11-01/current/P1D</Extent>
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_snpp</Name>
+                <Title>VIIRS S-NPP Daterange Hotspots</Title>
+                <Abstract>Provides VIIRS 375m S-NPP hotspots for a specific date range (YYYY-mm-dd/YYYY-mm-dd). Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+                <Dimension name="time" units="ISO8601"/>
+                <Extent name="time" default="2000-11-01" nearestValue="0">2000-11-01/current/P1D</Extent>
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_viirs_noaa20</Name>
+                <Title>VIIRS NOAA-20 Daterange Hotspots</Title>
+                <Abstract>Provides VIIRS 375m NOAA-20 hotspots for a specific date range (YYYY-mm-dd/YYYY-mm-dd). Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+                <Dimension name="time" units="ISO8601"/>
+                <Extent name="time" default="2000-11-01" nearestValue="0">2000-11-01/current/P1D</Extent>
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_modis</Name>
+                <Title>MODIS Daterange Hotspots</Title>
+                <Abstract>Provides MODIS (Rapid Response Collection) Fires/Hotspots for a specific date range (YYYY-mm-dd/YYYY-mm-dd). Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+                <Dimension name="time" units="ISO8601"/>
+                <Extent name="time" default="2000-11-01" nearestValue="0">2000-11-01/current/P1D</Extent>
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_terra</Name>
+                <Title>MODIS-Terra Daterange Hotspots</Title>
+                <Abstract>Provides MODIS-Terra (Rapid Response Collection) Fires/Hotspots for a specific date range (YYYY-mm-dd/YYYY-mm-dd). Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+                <Dimension name="time" units="ISO8601"/>
+                <Extent name="time" default="2000-11-01" nearestValue="0">2000-11-01/current/P1D</Extent>
+            </Layer>
+            <Layer queryable="0" opaque="0" cascaded="0">
+                <Name>fires_aqua</Name>
+                <Title>MODIS-Aqua Daterange Hotspots</Title>
+                <Abstract>Provides MODIS-Aqua (Rapid Response Collection) Fires/Hotspots for a specific date range (YYYY-mm-dd/YYYY-mm-dd). Please visit http://earthdata.nasa.gov/firms for more information</Abstract>
+                <SRS>EPSG:4326</SRS>
+                <LatLonBoundingBox minx="-180" miny="-90" maxx="180" maxy="90" />
+                <BoundingBox SRS="EPSG:4326" minx="-180" miny="-90" maxx="180" maxy="90" />
+                <Dimension name="time" units="ISO8601"/>
+                <Extent name="time" default="2000-11-01" nearestValue="0">2000-11-01/current/P1D</Extent>
+            </Layer>
+
+        </Layer>
+    </Capability>
+</WMT_MS_Capabilities>
